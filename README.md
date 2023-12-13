@@ -1,2 +1,2 @@
 # web-crawler
-its my-self learning python crawler, based on PyCharm
+Its self-learning python crawler, based on PyCharm
