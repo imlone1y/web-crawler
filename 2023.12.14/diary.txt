@@ -1,0 +1,7 @@
+for the first day, i learn how to collect the website's data, and turn into json and excel file.
+
+import BeautifulSoup4, requests and pandas to help me using the tools.
+
+i have to tell the website as i'm a user but not a python crawler by using "User-Agent".
+
+use requests to collect the data that website return to me.
