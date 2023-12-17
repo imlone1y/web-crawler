@@ -1,0 +1,9 @@
+the Status Code 302 represents he resource requested has been temporarily moved to the URL given by the Location header.
+
+in this project, we have to take cookie (in this project is "over18=1") to our crawer, to pass the age check web page.
+
+also use "os" to create a diretory to save our images download in websites.
+
+use split to find the right format ("jpg", "peg", "jpeg", "gif"), if its the right format, means its image, then download it.
+
+also copy the file_name and file_format for creating the name of the images we download.
